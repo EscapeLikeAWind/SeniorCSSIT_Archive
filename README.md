@@ -1,2 +1,4 @@
-# SeniorCSSIT_Archive
-Bachelor thesis for computer science degree at School of Information Technology, KMUTT, titled "Neuromechanisms of long-term memory retrieval."
+# [Neuromechanisms of long-term memory retrieval](https://seniorproject.sit.kmutt.ac.th/showproject/CS64-RE23)
+
+
+![Poster version of the thesis](csc499-poster-LTMdivide_latestFix.png)
